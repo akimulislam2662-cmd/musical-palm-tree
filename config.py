@@ -3,7 +3,7 @@ class Config(object):
     # The bot-token which you can get from @Botfather
     BOT_TOKEN = "8252198993:AAEoJyFc1x-klBfMLzwSy-XTB9P0bH0Xhfs"
     # There is no measure to limit who can use this bot, so add userids of users authorized to use this bot
-    AUTH_USERS = [693236796, 766744717, 1074732684]
+    AUTH_USERS = [6599684137, 6599684137, 6599684137]
     # Add numbers below who shouldn't be bombed ever
     NO_BOMB_NUMS = []
     # Add userids below of users who should have sudo authority over bot, i.e., have no bombing limits
